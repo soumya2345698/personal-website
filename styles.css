@@ -1,0 +1,134 @@
+body{
+  margin: 0;
+  text-align: center;
+}
+
+h1{
+  font-family: 'Prompt',sans-serif;
+
+}
+
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  border-color: grey;
+  width: auto;
+}
+
+.o{
+  line-height: 50px;
+  width: 50%;
+}
+
+h3{
+  line-height: 50px;
+}
+.top{
+  background-color: powderblue;
+  position: relative;
+  padding-top: 150px;
+}
+
+.contact-msg{
+  line-height: 2px;
+}
+.hand{
+  font-style: oblique;
+  line-height: 2px;
+  width: 50%;
+}
+
+.middle{
+  background-color:  #fc893c;
+  position: relative;
+  padding-top: 10px;
+  padding-bottom: 50px;
+}
+
+.cl{
+  position: absolute;
+  right: 100px;
+  top: 50px;
+
+}
+
+.cloud{
+  position: absolute;
+  left: 100px;
+
+}
+
+.contact-me{
+  background-color: gold;
+  position: relative;
+  padding-top: 10px;
+  padding-bottom: 50px;
+
+}
+.mountain{
+  width:600px;
+}
+
+.u{
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+.h{
+  text-decoration: underline;
+  width: 50%;
+}
+
+.pic{
+  width: 300px;
+  float: left;
+
+}
+
+
+
+
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  line-height: 100px;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+
+.bottom-container{
+  padding-top: 100px;
+  background-color: #11cdd4;
+  margin: auto;
+  position: relative;
+  padding-top: 10px;
+  padding-bottom: 50px;
+}
+
+.footer-link{
+  font-family: 'Prompt',sans-serif;
+  margin:30px 30px;
+  margin: auto;
+
+}
